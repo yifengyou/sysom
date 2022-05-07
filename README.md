@@ -1,3 +1,8 @@
+```
+fork form https://gitee.com/anolis/sysom
+just for fun
+```
+
 # 简介
 致力于打造一个集主机管理、配置部署、监控报警、异常诊断、安全审计等一系列功能的自动化运维平台。
 探索创新的sysAK、ossre诊断工具及高效的LCC（Libbpf Compiler Collection）开发编译平台和netinfo网络抖动问题监控系统等，
